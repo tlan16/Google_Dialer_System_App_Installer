@@ -1,6 +1,6 @@
-id=universal_system_app_installer
-name=Universal System App Installer
+id=google.dialer.apk_system_app_installer
+name=Google Dialer System App Installer
 version=1.0
 versionCode=1
 author=hc841
-description=Um módulo do Magisk para instalar apks como apps de sistema.
+description=Installs Google Dialer as a system app.
